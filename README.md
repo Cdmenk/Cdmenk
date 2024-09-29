@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi all
+
+🔭 I’m currently working on a foodmachine website
+🌱 I’m currently learning developing and hosting a website
+👯 I’m looking to collaborate on newest and smartest sources about how to code, develop software and to build
 
 <!--
 **Cdmenk/Cdmenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
